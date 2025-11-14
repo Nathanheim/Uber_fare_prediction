@@ -161,8 +161,9 @@ python app.py
 | Decision Tree            | 0.61     | 2.85     | 5.88     |
 | Fixed-Effects Regression | Lower    | Higher   | Higher   |
 
-**Conclusion:**
+# **Conclusion:**
 ➡️ Machine-Learning models significantly outperform the classical Fixed-Effects baseline.
+
 ➡️ Random Forest provides the best predictive accuracy.
 
 ---
