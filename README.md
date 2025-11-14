@@ -7,8 +7,6 @@ This repository contains two main components:
 
 ---
 
----
-
 # 📌 1. Uber Fare Prediction – Model Notebook
 
 This notebook includes:
