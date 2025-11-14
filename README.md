@@ -100,7 +100,7 @@ Shows a popup message with the predicted fare:
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/uber-fare-prediction.git
-cd uber-fare-prediction
+cd Uber_fare_prediction
 ````
 
 ### **2. Install Dependencies**
