@@ -1,4 +1,3 @@
-```markdown
 # 🚖 Uber Fare Prediction Project
 
 This repository contains two main components:
@@ -7,18 +6,6 @@ This repository contains two main components:
 2. **Uber Fare Prediction GUI Application** – A simple Tkinter-based user interface that allows users to input ride details and get fare predictions using the trained machine-learning model.
 
 ---
-
-# 📁 Repository Structure
-
-```
-
-├── Uber Fare prediction.ipynb        # Data cleaning, EDA, feature engineering, ML models, FE regression
-├── Uber Project Tkinter.ipynb        # Tkinter GUI app for real-time predictions
-├── random_forest_model.pkl           # Saved optimized Random Forest model
-├── uber.jpg                           # Background image used in the GUI
-└── README.md                          # Project documentation
-
-```
 
 ---
 
@@ -136,43 +123,24 @@ Recommended libraries:
 * pillow
 * joblib
 
-### **3. Run the Model Notebook**
 
-Open Jupyter Notebook:
+### **3. Run the GUI Application**
 
-```bash
-jupyter notebook
-```
+Steps:
 
-Then run:
+- Make sure the following files are in the same folder:
 
-```
-Uber Fare prediction.ipynb
-```
+- app.py (your Tkinter code)
 
-### **4. Run the GUI App Notebook**
+- random_forest_model.pkl
 
-Open:
+- uber.jpg (background image)
 
-```
-Uber Project Tkinter.ipynb
-```
-
-Run all cells → the GUI will launch.
-
+Open Command Prompt (CMD) inside the folder.
 ---
+Run the app:
 
-# 📦 Saved Model
-
-The file:
-
-```
-random_forest_model.pkl
-```
-
-is the optimized model produced after hyperparameter tuning.
-It is used directly by the Tkinter GUI app for real-time prediction.
-
+python app.py
 ---
 
 # 🧠 Technologies Used
