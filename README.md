@@ -139,7 +139,6 @@ Open Command Prompt (CMD) inside the folder.
 Run the app:
 ```
 python app.py
----
 ```
 # 🧠 Technologies Used
 
