@@ -85,10 +85,10 @@ Shows a popup message with the predicted fare:
 
 ### GUI Preview Screenshot:
 
-```
+
 
 ![Uber GUI Screenshot](images/test.jpg)
-````
+
 
 ---
 
