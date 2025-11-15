@@ -96,7 +96,7 @@ Shows a popup message with the predicted fare:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/uber-fare-prediction.git
+git clone https://github.com/Nathanheim/uber-fare-prediction.git
 cd Uber_fare_prediction
 ````
 
